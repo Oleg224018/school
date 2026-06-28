@@ -1,1 +1,0 @@
-<template><main class="inner-page"><h1>Воспитание</h1><span class="line"></span><p>Духовно-нравственное развитие, праздники, паломничества и дела милосердия.</p><RouterLink class="gold-btn" to="/">На главную</RouterLink></main></template>
